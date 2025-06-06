@@ -14,10 +14,3 @@ A streamlined tool to help organizations register, manage, and monitor vendors e
 - [npm](https://www.npmjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 
-## ⚙️ Setup Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/ankur766/Vendor-Management-System.git
-cd Vendor-Management-System
